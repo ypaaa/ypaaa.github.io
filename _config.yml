@@ -3,8 +3,8 @@ title: YP Blog
 SEOTitle: 叶鹏的博客 | YP Blog
 header-img: img/post-bg-desk.jpg
 email: 598774434@qq.com
-description: "HODING."
-keyword: "MY Blog, 叶鹏的博客, java"
+description: ""
+keyword: "YP Blog, 叶鹏的博客, java"
 url: "http://ypaaa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ypaaa/ypaaa.github.io" # you code repository
@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 56a9309d5c6794f0cb8b                            #生成的clientID
-  clientSecret: 6f718e605c450bf485256ed30f5ea1a2a9dcd6ed    #生成的clientSecret
-  repo: ypaaa.github.io    #仓库名称
-  owner: ypaaa    #github用户名
-  admin: ypaaa
+  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  repo: qiubaiying.github.io    #仓库名称
+  owner: qiubaiying    #github用户名
+  admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
