@@ -1,10 +1,10 @@
-# Site settings
+﻿# Site settings
 title: BY Blog
 SEOTitle: 叶鹏的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/avatar_m.jpg
 email: 598774434@qq.com
 description: "HODING."
-keyword: "BY, BY Blog, 叶鹏的博客, java"
+keyword: "MY Blog, 叶鹏的博客, java"
 url: "http://ypaaa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ypaaa/ypaaa.github.io" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/apple-touch-icon.jpg      # use absolute URL, seeing it's u
 
 # SNS settings
 RSS: false
-# weibo_username:     firstspider
+weibo_username:     firstspider
 zhihu_username:     ypaaa
 github_username:    ypaaa
 facebook_username:  ypaaa
