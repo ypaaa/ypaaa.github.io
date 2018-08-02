@@ -7,7 +7,7 @@ description: "Blog"
 keyword: "YP Blog, 叶鹏的博客, java"
 url: "https://ypaaa.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ypaaa/ypaaa.github.io.git" # you code repository
+github_repo: "https://github.com/ypaaa/ypaaa.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     u/3192474730
 zhihu_username:     ypaaa
 github_username:    ypaaa
-facebook_username:  ypaaa
+#facebook_username:  ypaaa
 #twitter_username:   ypaaa
 
 
